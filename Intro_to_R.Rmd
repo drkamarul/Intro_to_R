@@ -3,7 +3,7 @@ title: "Introduction to R, RStudio and RStudio Cloud"
 subtitle: "⚔<br/I>Installation ,Packages, Directory, Data Management and Analysis   "
 author: |
   | Kamarul Imran Musa, Assoc Prof (Epidemiology and Statistics)
-date: "20 Julai 2018 (updated: `r Sys.Date()`)"
+date: "updated: `r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
